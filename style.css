@@ -1,0 +1,52 @@
+body{
+    background-color: #F0EBE3;
+}
+
+
+.kotak{
+    width: 300px;
+    padding: 60px 0px;
+    border-radius: 10px;
+    border: 0px;
+    margin: 5px;
+    background-color: #576F72;
+    color: white;
+    font-size: 35px;
+
+}
+
+.kotak p{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input_txt{
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px 5px 5px 0px;
+}
+
+.input_btn{
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px 5px 5px 0px;
+    background-color: #576F72;
+    color: white;
+}
+
+.input{
+    width: 15%;
+    height: 15%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: #7D9D9C;
+    margin-left: 15px;
+    margin-top: 13%;
+    border-radius: 40px;
+}
+
+.barang{
+    margin-top: 50px;
+}
